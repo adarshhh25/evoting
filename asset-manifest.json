@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/E-vote/static/css/main.13aad27b.css",
+    "main.js": "/E-vote/static/js/main.19e2a90d.js",
+    "index.html": "/E-vote/index.html",
+    "main.13aad27b.css.map": "/E-vote/static/css/main.13aad27b.css.map",
+    "main.19e2a90d.js.map": "/E-vote/static/js/main.19e2a90d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13aad27b.css",
+    "static/js/main.19e2a90d.js"
+  ]
+}
